@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru10berlgoog_0298.png"; bbox 0 0 3288 4990; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 363 380 1167 469">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 363 380 1167 469">
+     <span class='ocr_line' id='line_1_1' title="bbox 363 380 1167 469; baseline 0.017 -14"><span class='ocrx_word' id='word_1_1' title='bbox 363 380 697 464; x_wconf 78' lang='lat' dir='ltr'>CHRONOGRAPH</span> <span class='ocrx_word' id='word_1_2' title='bbox 717 392 875 466; x_wconf 82' lang='lat' dir='ltr'>CANON.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1091 395 1167 469; x_wconf 75' lang='lat'>273</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 96 541 1167 655">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 96 541 1167 655">
+     <span class='ocr_line' id='line_1_2' title="bbox 96 541 1167 655; baseline 0.001 -59"><span class='ocrx_word' id='word_1_4' title='bbox 96 541 226 655; x_wconf 47' lang='lat' dir='ltr'>:xlm</span> <span class='ocrx_word' id='word_1_5' title='bbox 267 542 541 607; x_wconf 57' lang='lat' dir='ltr'>1000&amp;QO</span> <span class='ocrx_word' id='word_1_6' title='bbox 572 550 659 610; x_wconf 66' lang='lat' dir='ltr'>mu</span> <span class='ocrx_word' id='word_1_7' title='bbox 628 554 882 618; x_wconf 67' lang='lat' dir='ltr'>⁸001.aede</span> <span class='ocrx_word' id='word_1_8' title='bbox 913 555 1014 605; x_wconf 56' lang='lat' dir='ltr'>laun*</span> <span class='ocrx_word' id='word_1_9' title='bbox 1051 559 1167 621; x_wconf 58' lang='lat' dir='ltr'>olm.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1648 4990">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1648 4990">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1648 4990; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1648 4990; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
